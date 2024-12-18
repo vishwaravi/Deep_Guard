@@ -40,14 +40,14 @@ export function Navbar() {
                 </div>
               </div>
               <div className="hidden sm:ml-6 sm:flex sm:items-center space-x-4">
-                {/* <a
-                  href="https://github.com/vishwaravi"
+                 <a
+                  href="https://github.com/vishwaravi/Deep_Guard.git"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-gray-500 hover:text-gray-700 dark:text-gray-400 dark:hover:text-gray-300"
                 >
                   <Github className="h-6 w-6" />
-                </a> */}
+                </a> 
                 <ThemeToggle />
               </div>
               <div className="-mr-2 flex items-center sm:hidden">
